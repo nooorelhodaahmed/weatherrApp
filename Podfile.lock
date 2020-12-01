@@ -1,0 +1,16 @@
+PODS:
+  - AZSearchView (1.0.5)
+
+DEPENDENCIES:
+  - AZSearchView
+
+SPEC REPOS:
+  trunk:
+    - AZSearchView
+
+SPEC CHECKSUMS:
+  AZSearchView: 21a2c07c5bd05f1aa2bbc34083a91c19f1965ad7
+
+PODFILE CHECKSUM: 86d42f54dd85cb7b8fc9cf746245832fe14fa99a
+
+COCOAPODS: 1.10.0
